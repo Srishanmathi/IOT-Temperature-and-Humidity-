@@ -38,7 +38,7 @@ This project is built using **ESP8266**, **DHT11 sensor**, **OLED display**, and
 6. Monitor live data on OLED & Blynk app
 
 ## 📷 Demo
-![Project Demo](https://drive.google.com/file/d/1G_ntyFQqvcM73FFs_EuXoAJr4OqoYH_M/view?usp=sharing)
+![Project Demo] https://drive.google.com/file/d/1G_ntyFQqvcM73FFs_EuXoAJr4OqoYH_M/view?usp=sharing
 
 ## 📄 Code
 
